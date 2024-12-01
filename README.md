@@ -28,7 +28,6 @@ https://github.com/user-attachments/assets/56b72dc1-0649-41a0-9c22-05ef38daffd0
   
 ## Rozetler
 
-[shields.io](https://shields.io/) Gibi bir yerden rozetler ekleyin.
 
 [![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
 [![GPLv3 License](https://img.shields.io/badge/License-GPL%20v3-yellow.svg)](https://opensource.org/licenses/)
