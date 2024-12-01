@@ -25,6 +25,8 @@ implementation "androidx.datastore:datastore-preferences:1.1.1"
 
 https://github.com/user-attachments/assets/56b72dc1-0649-41a0-9c22-05ef38daffd0
 
+Daha fazla detay;
+https://medium.com/@mamisarisoy/preferences-data-store-nedir-58b04aceb15b
   
 ## Rozetler
 
